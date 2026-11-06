@@ -1,0 +1,59 @@
+{
+  "%@ has %lld new chapters.": {
+    "other": "%1$@ 新增 %2$lld 章。"
+  },
+  "%@ has %lld new episodes.": {
+    "other": "%1$@ 新增 %2$lld 集。"
+  },
+  "%lld Earlier Chapters": {
+    "other": "更早的 %lld 章"
+  },
+  "%lld Earlier Episodes": {
+    "other": "更早的 %lld 集"
+  },
+  "%lld Hours": {
+    "other": "%lld 小时"
+  },
+  "%lld chapters": {
+    "other": "%lld 章"
+  },
+  "%lld episodes": {
+    "other": "%lld 集"
+  },
+  "%lld history entries": {
+    "other": "%lld 条历史记录"
+  },
+  "%lld images": {
+    "other": "%lld 张图片"
+  },
+  "%lld items affected": {
+    "other": "影响 %lld 项"
+  },
+  "%lld items imported": {
+    "other": "已导入 %lld 项"
+  },
+  "%lld packages": {
+    "other": "%lld 个软件包"
+  },
+  "%lld paused": {
+    "other": "%lld 项已暂停"
+  },
+  "%lld percent": {
+    "other": "百分之 %lld"
+  },
+  "%lld sources need attention": {
+    "other": "%lld 个来源需要处理"
+  },
+  "%lld titles have new updates, including %@": {
+    "other": "%1$lld 部作品有更新，包括 %2$@"
+  },
+  "%lld waiting to sync": {
+    "other": "%lld 项待同步"
+  },
+  "Failed to refresh %lld repositories.": {
+    "other": "无法刷新 %lld 个仓库。"
+  },
+  "Score: %lld percent": {
+    "other": "评分：百分之 %lld"
+  }
+}
