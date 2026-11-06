@@ -19,6 +19,8 @@
 
 ---
 
+> **简体中文版本：** 已添加 iOS 自动跟随系统语言的中文界面。查看 [中文使用与 Xcode 编译说明](docs/README_ZH.md)。
+
 ## Features
 
 * Native manga and novel readers, plus video playback.
